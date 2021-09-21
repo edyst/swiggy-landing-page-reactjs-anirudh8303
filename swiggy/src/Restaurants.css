@@ -1,0 +1,32 @@
+.restaurants {
+    padding-left: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.restaurants_left {
+    margin-top: 100px;
+    flex: 0.7;
+}
+.restaurants_left > h2 {
+    font-size: 55px;
+    font-weight: 500;
+    width: 380px;
+}
+.restaurants_left > h4 {
+    font-size: 23px;
+    font-weight: 250;
+}
+.app_icons {
+    margin-top: 150px;
+    display: flex;
+    justify-content: flex-start;
+}
+.app_icons  > img {
+    height: 80px;
+    width: 280px;
+    justify-content: space-between;
+}
+.restaurants_right >img {
+    height: 650px;
+    width: 450px;
+}

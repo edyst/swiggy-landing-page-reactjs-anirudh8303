@@ -1,0 +1,8 @@
+.card  {
+    color: white;
+    align-items: center;
+    padding-left: 45px 5px;
+}
+.card_content >h4 {
+    text-align: center;
+}

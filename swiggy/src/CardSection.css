@@ -1,0 +1,8 @@
+.cardSection {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 65vh;
+    background-color: #312727;
+    align-items: center;
+}

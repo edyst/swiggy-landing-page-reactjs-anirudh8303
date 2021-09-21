@@ -1,0 +1,71 @@
+.jumbo {
+    display: flex;
+    justify-content: space-between;
+}
+.jumbo_left {
+    flex: 0.6;
+}
+.jumbo_right {
+    flex: 0.4;
+}
+
+.left_top {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.top_b {
+    margin-top: -24px;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.jumbo_right_image {
+    height: 750px;
+    width: 990px;
+}
+.left_middle {
+    margin-top: 50px;
+    padding-left:250px;
+}
+.inp {
+    display: flex;
+    justify-content: space-between;
+    height: 53px;
+    width: 800px;
+    border: 1px solid lightgray;
+    align-items: center;
+}
+.inp>input {
+    border: none;
+    width: 350px;
+    padding-left: 30px;
+    font-size: large;
+    font-weight: 250;
+}
+.inp >input:focus {
+    outline-width:0;
+}
+.inp >h5 {
+    margin-top: 27px;
+    height: 20px;
+    width: 80px;
+    font-size:medium;
+    font-weight: 600;
+    padding: 10px;
+}
+.inp >h5:hover {
+   background-color: lightgray;
+}
+.left_bottom {
+    margin-top: 50px;
+    padding-left:250px;
+}
+.left_bottom >h4 {
+     font-size: 20px;
+     font-weight: 600;
+}
+.restaurants_right {
+    display: flex;
+    justify-content: space-around;
+}
