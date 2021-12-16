@@ -26,7 +26,8 @@
 }
 .left_middle {
     margin-top: 50px;
-    padding-left:250px;
+    padding-left:200px;
+    padding-right:50px ;
 }
 .inp {
     display: flex;
@@ -59,7 +60,7 @@
 }
 .left_bottom {
     margin-top: 50px;
-    padding-left:250px;
+    padding-left:200px;
 }
 .left_bottom >h4 {
      font-size: 20px;
